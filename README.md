@@ -13,7 +13,7 @@ HTML, CSS and best practices learnt whilst building a large JavaScript applicati
 * [Hogan.js](http://twitter.github.com/hogan.js/) for JavaScript templating. This was developed against the mustache test suite so everything you can do in mustache you can do with Hogan. Only faster. Allso supports template inheritance (see later).
 * [Modernizr](http://modernizr.com/) feature detection
 * [Grunt](http://gruntjs.com/) for task based build process in JavaScript using Node
-* [Jasmine](http://pivotal.github.com/jasmine/) behaviour driven testing
+* [Jasmine](https://jasmine.github.io/) behaviour driven testing
 
 ## Render performance
 
